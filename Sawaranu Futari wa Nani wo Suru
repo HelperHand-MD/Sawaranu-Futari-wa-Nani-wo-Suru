@@ -10,7 +10,7 @@ Toru musters up the courage to confess her feelings for the first time in her li
       "title": "Chapter 1",
       "volume": "Vol. 1",
       "groups": {
-        "AmberScans": "/proxy/api/imgur/chapter/S99lFK9/"
+        "AmberScans": "/proxy/api/imgur/chapter/<S99lFK9>/"
       },
       "last_updated": "1632813727"
     },
@@ -19,7 +19,7 @@ Toru musters up the courage to confess her feelings for the first time in her li
       "title": "Chapter 2",
       "volume": "Vol. 1",
       "groups": {
-        "AmberScans": "/proxy/api/imgur/chapter/PeZIkwm/"
+        "AmberScans": "/proxy/api/imgur/chapter/<PeZIkwm>/"
       },
       "last_updated": "1633591327"
     }
